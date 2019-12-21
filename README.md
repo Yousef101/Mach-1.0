@@ -12,9 +12,9 @@ visit https://wondertab.netlify.com/mach to see all the available commands.
 4: Be careful when using the "eval" command. (only the owner can use it). <br>
 
 # Installation
-1: Make sure you have Node.js installed on your PC.
-2: Edit the botconfig.json file and put your bot TOKEN and your discord ID and the prefix of your choice.
-3: Open terminal and locate the folder you saved the bot files in and then Type "npm i" to install the required modules.
+1: Make sure you have Node.js installed on your PC. <br>
+2: Edit the botconfig.json file and put your bot TOKEN and your discord ID and the prefix of your choice.<br>
+3: Open terminal and locate the folder you saved the bot files in and then Type "npm i" to install the required modules.<br>
 
 # For support and to see the bot in action join <a href="https://discord.gg/TWy6pSZ" target="_blank">my discord server</a>.
 
