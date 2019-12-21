@@ -1,0 +1,33 @@
+{
+  "name": "mach",
+  "version": "1.0.0",
+  "description": "Mach is a simple moderation bot for <a href=\"https://discordapp.com/\" target=\"_blank\">Discord</a> intended for moderation, yet it also contains a variety of other features. Mach is built using the powerful <a href=\"https://discord.js.org/\" target=\"_blank\">discord.js library</a>.",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/error.js",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yousef101/Mach.git"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^11.5.1",
+    "json5": "^2.1.0",
+    "long": "^4.0.0",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^4.0.4",
+    "superagent": "^5.0.5",
+    "urban": "^0.3.2",
+    "yql": "^1.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Yousef101/Mach/issues"
+  },
+  "homepage": "https://github.com/Yousef101/Mach#readme",
+  "author": ""
+}
